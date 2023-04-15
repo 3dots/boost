@@ -337,7 +337,7 @@
 	path = libs/numeric/interval
 	url = ../interval.git
 	fetchRecurseSubmodules = on-demand
-	branch = .
+	branch = develop
 [submodule "ublas"]
 	path = libs/numeric/ublas
 	url = ../ublas.git
