@@ -57,7 +57,7 @@
 	path = libs/config
 	url = ../config.git
 	fetchRecurseSubmodules = on-demand
-	branch = .
+	branch = develop
 [submodule "log"]
 	path = libs/log
 	url = ../log.git
